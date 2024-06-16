@@ -7,6 +7,8 @@ These scripts are designed to work in an environment having diverse Oracle datab
 ## Programming
 The key principle for these scripts is compatibility. POSIX level. 
 
+Shell will be used, ksh compatible shell! C and Perl are not excluded.
+
 No fancy bash-isms, no gnu tools. Expect awk, sed, and ex. 
 
 ## Setup
